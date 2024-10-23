@@ -2,7 +2,7 @@
 
 <h2> I'm Alexander Hughes!</h2>
 <img align='right' src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="230">
-<p><em>Neural Interface Engineer at <a href="https://github.com/Yvolution-Ireland">Yvolution</a> and Undergraduate at <a href="https://iadt.ie">IADT</a>
+<p><em>Neural Interface Engineer at <a href="https://github.com/Yvolution-Ireland">Yvolution</a> and Graduate from <a href="https://iadt.ie">IADT</a>
 </em></p>
 
 [![Instagram: Alex](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexh00z/)
